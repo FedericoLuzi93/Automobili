@@ -6,6 +6,11 @@ public class TestAvvioAutomobili {
 
 	public static void main(String[] args) throws FileNotFoundException 
 	{
+//		StudenteLombok stud = new StudenteLombok();
+//		stud.setNome("Pippo");
+//		System.out.println(stud.getNome());
+//		System.out.println(stud.toString());
+		
 //		String percorsoFile = "src/main/resources/MOCK_DATA.csv";
 //		Scanner file = new Scanner(new File(percorsoFile));
 //		List<Dipendente> listaDipendenti = new ArrayList<>();
@@ -35,6 +40,7 @@ public class TestAvvioAutomobili {
 //		{
 //			System.out.println(dipe.toString());
 //		}
+		
 
 	}
 

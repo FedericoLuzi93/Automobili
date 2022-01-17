@@ -17,6 +17,7 @@ public class AutomobiliUtility
 {
 	private static final Logger logger = LoggerFactory.getLogger(AutomobiliUtility.class);
 	
+	
 	public static ConcessionariaDTO converToConcessionariaDTO(Concessionaria concessionarie, boolean convertAutomobili)
 	{
 		logger.info("Sono dentro alla classe AutomobiliUtility metodo converToConcessionariaDTO");
